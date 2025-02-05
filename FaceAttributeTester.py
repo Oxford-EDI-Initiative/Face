@@ -1,4 +1,3 @@
-
 #tests for different facial attributes using a binary scale
 #neutral so return 50% male 50% female same for greyscaled races
 

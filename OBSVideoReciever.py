@@ -37,6 +37,7 @@ detector = dlib.get_frontal_face_detector()
 def apply_deepfake(frame):
   pass
     #run model return the deepfaked frame
+    #will use another file for this currently being deloped
   
 
   return frame
